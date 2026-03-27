@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE (AI/ML) student<br>Languages: Python, C, C++, Java<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js<br>Database: PostgreSQL,MySQL<br>Currently learning DSA, Machine Learning, Backend Development<br>Working on real-world projects + campus delivery startup idea<br>Open to collaboration in AI/ML & Web Development<br>
+B.Tech CSE (AI/ML) student<br>Languages: Python, C, C++, Java<br>Frontend: HTML, CSS, JavaScript<br>Backend: Node.js<br>Database: PostgreSQL,MySQL,MONGODB<br>Currently learning DSA, Machine Learning, Backend Development<br>Working on real-world projects + campus delivery startup idea<br>Open to collaboration in AI/ML & Web Development<br>
 
 
 ## 🌐 Socials:
